@@ -1,0 +1,50 @@
+.yellowColor {
+    color: #FFDA2D;
+}
+
+.lightBlueColor {
+    color: #BAE7FF
+}
+
+.buttonGridient {
+    background: linear-gradient(90deg, #27AE60 0%, #56A82B 45.5%, #009045 100%);
+    padding: 12px 52px 12px 52px;
+    gap: 10px;
+    border-radius: 6px 6px 6px 6px;
+    color: #FFFFFF;
+    border-color: #FFFFFF;
+    opacity: 0px;
+    margin-top: 5%;
+}
+
+
+.smiley-rating {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.smiley {
+    font-size: 3rem;
+    /* Smiley emoji size */
+    transition: all 0.2s ease;
+    cursor: pointer;
+}
+
+.smiley.selected {
+    color: #f39c12;
+    /* Gold color for selected smiley */
+}
+
+.smiley:hover {
+    transform: scale(1.2);
+    /* Enlarge on hover */
+    color: #f39c12;
+    /* Gold color on hover */
+}
+
+.rating-text p {
+    font-size: 1.2rem;
+    margin-top: 10px;
+    color: #555;
+}
