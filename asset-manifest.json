@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/aiVantage/static/css/main.c0bc746f.css",
+    "main.js": "/aiVantage/static/js/main.54469889.js",
+    "static/js/453.30c7c178.chunk.js": "/aiVantage/static/js/453.30c7c178.chunk.js",
+    "static/media/customer_satisfaction.png": "/aiVantage/static/media/customer_satisfaction.910ff0dc6b3e6ca0b8b2.png",
+    "index.html": "/aiVantage/index.html",
+    "main.c0bc746f.css.map": "/aiVantage/static/css/main.c0bc746f.css.map",
+    "main.54469889.js.map": "/aiVantage/static/js/main.54469889.js.map",
+    "453.30c7c178.chunk.js.map": "/aiVantage/static/js/453.30c7c178.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c0bc746f.css",
+    "static/js/main.54469889.js"
+  ]
+}
